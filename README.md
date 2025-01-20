@@ -12,9 +12,6 @@
 
 ---
 
-<p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/43749971/111331199-6c278600-864f-11eb-9548-a959db021f67.gif">
-</p>
 
 ---
 
